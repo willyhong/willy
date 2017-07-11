@@ -1,0 +1,54 @@
+C:\Users\iii\Desktop\my\C# 0316\訂購單0323\訂購單0323\bin\Debug\訂購單0323.exe.config
+C:\Users\iii\Desktop\my\C# 0316\訂購單0323\訂購單0323\bin\Debug\訂購單0323.exe
+C:\Users\iii\Desktop\my\C# 0316\訂購單0323\訂購單0323\bin\Debug\訂購單0323.pdb
+C:\Users\iii\Desktop\my\C# 0316\訂購單0323\訂購單0323\obj\Debug\訂購單0323.csprojResolveAssemblyReference.cache
+C:\Users\iii\Desktop\my\C# 0316\訂購單0323\訂購單0323\obj\Debug\訂購單0323.Form1.resources
+C:\Users\iii\Desktop\my\C# 0316\訂購單0323\訂購單0323\obj\Debug\訂購單0323.Properties.Resources.resources
+C:\Users\iii\Desktop\my\C# 0316\訂購單0323\訂購單0323\obj\Debug\訂購單0323.csproj.GenerateResource.Cache
+C:\Users\iii\Desktop\my\C# 0316\訂購單0323\訂購單0323\obj\Debug\訂購單0323.exe
+C:\Users\iii\Desktop\my\C# 0316\訂購單0323\訂購單0323\obj\Debug\訂購單0323.pdb
+C:\Users\cool\Desktop\訂購單0323\訂購單0323\bin\Debug\訂購單0323.exe.config
+C:\Users\cool\Desktop\訂購單0323\訂購單0323\obj\Debug\訂購單0323.exe
+C:\Users\cool\Desktop\訂購單0323\訂購單0323\obj\Debug\訂購單0323.pdb
+C:\Users\cool\Desktop\訂購單0323\訂購單0323\obj\Debug\訂購單0323.csprojResolveAssemblyReference.cache
+C:\Users\cool\Desktop\訂購單0323\訂購單0323\obj\Debug\訂購單0323.Form1.resources
+C:\Users\cool\Desktop\訂購單0323\訂購單0323\obj\Debug\訂購單0323.Properties.Resources.resources
+C:\Users\cool\Desktop\訂購單0323\訂購單0323\obj\Debug\訂購單0323.csproj.GenerateResource.Cache
+C:\Users\cool\Desktop\訂購單0323\訂購單0323\bin\Debug\訂購單0323.exe
+C:\Users\cool\Desktop\訂購單0323\訂購單0323\bin\Debug\訂購單0323.pdb
+C:\Users\cool\Desktop\C#練習\訂購單0323\訂購單0323\bin\Debug\訂購單0323.exe.config
+C:\Users\cool\Desktop\C#練習\訂購單0323\訂購單0323\obj\Debug\訂購單0323.exe
+C:\Users\cool\Desktop\C#練習\訂購單0323\訂購單0323\obj\Debug\訂購單0323.pdb
+C:\Users\cool\Desktop\C#練習\訂購單0323\訂購單0323\bin\Debug\訂購單0323.exe
+C:\Users\cool\Desktop\C#練習\訂購單0323\訂購單0323\bin\Debug\訂購單0323.pdb
+C:\Users\cool\Desktop\C#練習\訂購單0323\訂購單0323\obj\Debug\訂購單0323.csprojResolveAssemblyReference.cache
+C:\Users\cool\Desktop\C#練習\訂購單0323\訂購單0323\obj\Debug\訂購單0323.Form1.resources
+C:\Users\cool\Desktop\C#練習\訂購單0323\訂購單0323\obj\Debug\訂購單0323.Properties.Resources.resources
+C:\Users\cool\Desktop\C#練習\訂購單0323\訂購單0323\obj\Debug\訂購單0323.csproj.GenerateResource.Cache
+F:\C# 0316\訂購單0323\訂購單0323\bin\Debug\訂購單0323.exe.config
+F:\C# 0316\訂購單0323\訂購單0323\bin\Debug\訂購單0323.exe
+F:\C# 0316\訂購單0323\訂購單0323\bin\Debug\訂購單0323.pdb
+F:\C# 0316\訂購單0323\訂購單0323\obj\Debug\訂購單0323.csprojResolveAssemblyReference.cache
+F:\C# 0316\訂購單0323\訂購單0323\obj\Debug\訂購單0323.Form1.resources
+F:\C# 0316\訂購單0323\訂購單0323\obj\Debug\訂購單0323.Properties.Resources.resources
+F:\C# 0316\訂購單0323\訂購單0323\obj\Debug\訂購單0323.csproj.GenerateResource.Cache
+F:\C# 0316\訂購單0323\訂購單0323\obj\Debug\訂購單0323.exe
+F:\C# 0316\訂購單0323\訂購單0323\obj\Debug\訂購單0323.pdb
+E:\C# 0316\訂購單0323\訂購單0323\bin\Debug\訂購單0323.exe.config
+E:\C# 0316\訂購單0323\訂購單0323\obj\Debug\訂購單0323.exe
+E:\C# 0316\訂購單0323\訂購單0323\obj\Debug\訂購單0323.pdb
+E:\C# 0316\訂購單0323\訂購單0323\bin\Debug\訂購單0323.exe
+E:\C# 0316\訂購單0323\訂購單0323\bin\Debug\訂購單0323.pdb
+E:\C# 0316\訂購單0323\訂購單0323\obj\Debug\訂購單0323.csprojResolveAssemblyReference.cache
+E:\C# 0316\訂購單0323\訂購單0323\obj\Debug\訂購單0323.Form1.resources
+E:\C# 0316\訂購單0323\訂購單0323\obj\Debug\訂購單0323.Properties.Resources.resources
+E:\C# 0316\訂購單0323\訂購單0323\obj\Debug\訂購單0323.csproj.GenerateResource.Cache
+C:\Users\s7132\Desktop\訂購單0323\訂購單0323\bin\Debug\訂購單0323.exe.config
+C:\Users\s7132\Desktop\訂購單0323\訂購單0323\bin\Debug\訂購單0323.exe
+C:\Users\s7132\Desktop\訂購單0323\訂購單0323\bin\Debug\訂購單0323.pdb
+C:\Users\s7132\Desktop\訂購單0323\訂購單0323\obj\Debug\訂購單0323.csprojResolveAssemblyReference.cache
+C:\Users\s7132\Desktop\訂購單0323\訂購單0323\obj\Debug\訂購單0323.Form1.resources
+C:\Users\s7132\Desktop\訂購單0323\訂購單0323\obj\Debug\訂購單0323.Properties.Resources.resources
+C:\Users\s7132\Desktop\訂購單0323\訂購單0323\obj\Debug\訂購單0323.csproj.GenerateResource.Cache
+C:\Users\s7132\Desktop\訂購單0323\訂購單0323\obj\Debug\訂購單0323.exe
+C:\Users\s7132\Desktop\訂購單0323\訂購單0323\obj\Debug\訂購單0323.pdb
