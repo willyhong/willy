@@ -1,0 +1,30 @@
+D:\C#程式\DatabaseClassLibrary\DatabaseClassLibrary\bin\Debug\DatabaseClassLibrary.exe.config
+D:\C#程式\DatabaseClassLibrary\DatabaseClassLibrary\bin\Debug\DatabaseClassLibrary.exe
+D:\C#程式\DatabaseClassLibrary\DatabaseClassLibrary\bin\Debug\DatabaseClassLibrary.pdb
+D:\C#程式\DatabaseClassLibrary\DatabaseClassLibrary\obj\Debug\DatabaseClassLibrary.csprojResolveAssemblyReference.cache
+D:\C#程式\DatabaseClassLibrary\DatabaseClassLibrary\obj\Debug\DatabaseClassLibrary.Form1.resources
+D:\C#程式\DatabaseClassLibrary\DatabaseClassLibrary\obj\Debug\DatabaseClassLibrary.Properties.Resources.resources
+D:\C#程式\DatabaseClassLibrary\DatabaseClassLibrary\obj\Debug\DatabaseClassLibrary.csproj.GenerateResource.Cache
+D:\C#程式\DatabaseClassLibrary\DatabaseClassLibrary\obj\Debug\DatabaseClassLibrary.exe
+D:\C#程式\DatabaseClassLibrary\DatabaseClassLibrary\obj\Debug\DatabaseClassLibrary.pdb
+C:\Users\iii\行動程式設計\C#程式\window form\DatabaseClassLibrary\DatabaseClassLibrary\bin\Debug\DatabaseClassLibrary.exe.config
+C:\Users\iii\行動程式設計\C#程式\window form\DatabaseClassLibrary\DatabaseClassLibrary\obj\Debug\DatabaseClassLibrary.exe
+C:\Users\iii\行動程式設計\C#程式\window form\DatabaseClassLibrary\DatabaseClassLibrary\obj\Debug\DatabaseClassLibrary.pdb
+C:\Users\iii\行動程式設計\C#程式\window form\DatabaseClassLibrary\DatabaseClassLibrary\bin\Debug\DatabaseClassLibrary.exe
+C:\Users\iii\行動程式設計\C#程式\window form\DatabaseClassLibrary\DatabaseClassLibrary\bin\Debug\DatabaseClassLibrary.pdb
+C:\Users\iii\行動程式設計\C#程式\window form\DatabaseClassLibrary\DatabaseClassLibrary\obj\Debug\DatabaseClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\iii\行動程式設計\C#程式\window form\DatabaseClassLibrary\DatabaseClassLibrary\obj\Debug\DatabaseClassLibrary.Form1.resources
+C:\Users\iii\行動程式設計\C#程式\window form\DatabaseClassLibrary\DatabaseClassLibrary\obj\Debug\DatabaseClassLibrary.Properties.Resources.resources
+C:\Users\iii\行動程式設計\C#程式\window form\DatabaseClassLibrary\DatabaseClassLibrary\obj\Debug\DatabaseClassLibrary.csproj.GenerateResource.Cache
+\\CR4-Teacher\C#程式設計作業\林俊男\DatabaseClassLibrary\DatabaseClassLibrary\bin\Debug\DatabaseClassLibrary.exe.config
+\\CR4-Teacher\C#程式設計作業\林俊男\DatabaseClassLibrary\DatabaseClassLibrary\obj\Debug\DatabaseClassLibrary.exe
+\\CR4-Teacher\C#程式設計作業\林俊男\DatabaseClassLibrary\DatabaseClassLibrary\obj\Debug\DatabaseClassLibrary.pdb
+\\CR4-Teacher\C#程式設計作業\林俊男\DatabaseClassLibrary\DatabaseClassLibrary\bin\Debug\DatabaseClassLibrary.exe
+\\CR4-Teacher\C#程式設計作業\林俊男\DatabaseClassLibrary\DatabaseClassLibrary\bin\Debug\DatabaseClassLibrary.pdb
+\\CR4-Teacher\C#程式設計作業\林俊男\DatabaseClassLibrary\DatabaseClassLibrary\obj\Debug\DatabaseClassLibrary.csprojResolveAssemblyReference.cache
+\\CR4-Teacher\C#程式設計作業\林俊男\DatabaseClassLibrary\DatabaseClassLibrary\obj\Debug\DatabaseClassLibrary.Form1.resources
+\\CR4-Teacher\C#程式設計作業\林俊男\DatabaseClassLibrary\DatabaseClassLibrary\obj\Debug\DatabaseClassLibrary.Properties.Resources.resources
+\\CR4-Teacher\C#程式設計作業\林俊男\DatabaseClassLibrary\DatabaseClassLibrary\obj\Debug\DatabaseClassLibrary.csproj.GenerateResource.Cache
+C:\Users\iii\Desktop\DatabaseClassLibrary\DatabaseClassLibrary\bin\Debug\DatabaseClassLibrary.exe.config
+C:\Users\iii\Desktop\DatabaseClassLibrary\DatabaseClassLibrary\obj\Debug\DatabaseClassLibrary.exe
+C:\Users\iii\Desktop\DatabaseClassLibrary\DatabaseClassLibrary\obj\Debug\DatabaseClassLibrary.pdb

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Sense/Desert.unity
+  isLoaded: 1
+  isActive: 1

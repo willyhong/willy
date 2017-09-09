@@ -1,0 +1,18 @@
+C:\Users\iii\Desktop\my\C# 0316\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe.config
+C:\Users\iii\Desktop\my\C# 0316\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe
+C:\Users\iii\Desktop\my\C# 0316\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.pdb
+C:\Users\iii\Desktop\my\C# 0316\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.csprojResolveAssemblyReference.cache
+C:\Users\iii\Desktop\my\C# 0316\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.ADONET與SQL.resources
+C:\Users\iii\Desktop\my\C# 0316\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.Properties.Resources.resources
+C:\Users\iii\Desktop\my\C# 0316\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.csproj.GenerateResource.Cache
+C:\Users\iii\Desktop\my\C# 0316\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.exe
+C:\Users\iii\Desktop\my\C# 0316\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.pdb
+C:\Users\s7132\Desktop\期中範例\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe.config
+C:\Users\s7132\Desktop\期中範例\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe
+C:\Users\s7132\Desktop\期中範例\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.pdb
+C:\Users\s7132\Desktop\期中範例\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.csprojResolveAssemblyReference.cache
+C:\Users\s7132\Desktop\期中範例\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.ADONET與SQL.resources
+C:\Users\s7132\Desktop\期中範例\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.Properties.Resources.resources
+C:\Users\s7132\Desktop\期中範例\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.csproj.GenerateResource.Cache
+C:\Users\s7132\Desktop\期中範例\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.exe
+C:\Users\s7132\Desktop\期中範例\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.pdb

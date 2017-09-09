@@ -1,0 +1,163 @@
+C:\Users\s7132\Desktop\MID\MIDterm\MIDterm\bin\Debug\MIDterm.exe.config
+C:\Users\s7132\Desktop\MID\MIDterm\MIDterm\bin\Debug\MIDterm.exe
+C:\Users\s7132\Desktop\MID\MIDterm\MIDterm\bin\Debug\MIDterm.pdb
+C:\Users\s7132\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.csprojResolveAssemblyReference.cache
+C:\Users\s7132\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.Properties.Resources.resources
+C:\Users\s7132\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.csproj.GenerateResource.Cache
+C:\Users\s7132\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.exe
+C:\Users\s7132\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.pdb
+C:\Users\iii\Desktop\MID\MIDterm\MIDterm\bin\Debug\MIDterm.exe.config
+C:\Users\iii\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.exe
+C:\Users\iii\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.pdb
+C:\Users\iii\Desktop\MID\MIDterm\MIDterm\bin\Debug\MIDterm.exe
+C:\Users\iii\Desktop\MID\MIDterm\MIDterm\bin\Debug\MIDterm.pdb
+C:\Users\iii\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.csprojResolveAssemblyReference.cache
+C:\Users\iii\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.訂購單.resources
+C:\Users\iii\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.Form2.resources
+C:\Users\iii\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.Properties.Resources.resources
+C:\Users\iii\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.店家商品新增.resources
+C:\Users\iii\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.店家資訊.resources
+C:\Users\iii\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.店家選擇.resources
+C:\Users\iii\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.第一頁.resources
+C:\Users\iii\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.csproj.GenerateResource.Cache
+C:\Users\iii\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.確認表.resources
+C:\Users\s7132\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.訂購單.resources
+C:\Users\s7132\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.Form2.resources
+C:\Users\s7132\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.確認表.resources
+C:\Users\s7132\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.店家商品新增.resources
+C:\Users\s7132\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.店家資訊.resources
+C:\Users\s7132\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.店家選擇.resources
+C:\Users\s7132\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.第一頁.resources
+C:\Users\s7132\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.商品詳細資料.resources
+E:\新增資料夾\C# 0316\MID\MIDterm\MIDterm\bin\Debug\MIDterm.exe.config
+E:\新增資料夾\C# 0316\MID\MIDterm\MIDterm\obj\Debug\MIDterm.exe
+E:\新增資料夾\C# 0316\MID\MIDterm\MIDterm\obj\Debug\MIDterm.pdb
+C:\Users\iii\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.商品詳細資料.resources
+E:\新增資料夾\C# 0316\MID\MIDterm\MIDterm\bin\Debug\MIDterm.exe
+E:\新增資料夾\C# 0316\MID\MIDterm\MIDterm\bin\Debug\MIDterm.pdb
+E:\新增資料夾\C# 0316\MID\MIDterm\MIDterm\obj\Debug\MIDterm.csprojResolveAssemblyReference.cache
+E:\新增資料夾\C# 0316\MID\MIDterm\MIDterm\obj\Debug\MIDterm.訂購單.resources
+E:\新增資料夾\C# 0316\MID\MIDterm\MIDterm\obj\Debug\MIDterm.Form2.resources
+E:\新增資料夾\C# 0316\MID\MIDterm\MIDterm\obj\Debug\MIDterm.確認表.resources
+E:\新增資料夾\C# 0316\MID\MIDterm\MIDterm\obj\Debug\MIDterm.Properties.Resources.resources
+E:\新增資料夾\C# 0316\MID\MIDterm\MIDterm\obj\Debug\MIDterm.商品詳細資料.resources
+E:\新增資料夾\C# 0316\MID\MIDterm\MIDterm\obj\Debug\MIDterm.店家商品新增.resources
+E:\新增資料夾\C# 0316\MID\MIDterm\MIDterm\obj\Debug\MIDterm.店家資訊.resources
+E:\新增資料夾\C# 0316\MID\MIDterm\MIDterm\obj\Debug\MIDterm.店家選擇.resources
+E:\新增資料夾\C# 0316\MID\MIDterm\MIDterm\obj\Debug\MIDterm.第一頁.resources
+E:\新增資料夾\C# 0316\MID\MIDterm\MIDterm\obj\Debug\MIDterm.csproj.GenerateResource.Cache
+E:\新增資料夾\C# 0316\MID\MIDterm\MIDterm\obj\Debug\MIDterm.訂購明細表.resources
+C:\Users\s7132\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.訂購明細表.resources
+C:\Users\s7132\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.店家基本資料.resources
+C:\Users\s7132\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.維護選項.resources
+C:\Users\s7132\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.Form4.resources
+C:\Users\s7132\Desktop\MID\MIDterm\MIDterm\obj\Debug\MIDterm.Form6.resources
+E:\MID1\MIDterm\MIDterm\bin\Debug\MIDterm.exe.config
+E:\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.exe
+E:\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.pdb
+C:\Users\s7132\Desktop\MID1\MIDterm\MIDterm\bin\Debug\MIDterm.exe.config
+C:\Users\s7132\Desktop\MID1\MIDterm\MIDterm\bin\Debug\MIDterm.exe
+C:\Users\s7132\Desktop\MID1\MIDterm\MIDterm\bin\Debug\MIDterm.pdb
+C:\Users\s7132\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.csprojResolveAssemblyReference.cache
+C:\Users\s7132\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.訂購單.resources
+C:\Users\s7132\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.Form2.resources
+C:\Users\s7132\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.確認表.resources
+C:\Users\s7132\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.Form6.resources
+C:\Users\s7132\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.Properties.Resources.resources
+C:\Users\s7132\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.商品詳細資料.resources
+C:\Users\s7132\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.店家商品新增.resources
+C:\Users\s7132\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.店家基本資料.resources
+C:\Users\s7132\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.店家資訊.resources
+C:\Users\s7132\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.店家選擇.resources
+C:\Users\s7132\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.第一頁.resources
+C:\Users\s7132\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.維護選項.resources
+C:\Users\s7132\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.訂購明細表.resources
+C:\Users\s7132\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.csproj.GenerateResource.Cache
+C:\Users\s7132\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.exe
+C:\Users\s7132\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.pdb
+C:\Users\s7132\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.學生資料.resources
+C:\Users\s7132\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.學生增刪改.resources
+C:\Users\s7132\Desktop\期中\MID1\MIDterm\MIDterm\bin\Debug\MIDterm.exe.config
+C:\Users\s7132\Desktop\期中\MID1\MIDterm\MIDterm\bin\Debug\MIDterm.exe
+C:\Users\s7132\Desktop\期中\MID1\MIDterm\MIDterm\bin\Debug\MIDterm.pdb
+C:\Users\s7132\Desktop\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.csprojResolveAssemblyReference.cache
+C:\Users\s7132\Desktop\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.訂購單.resources
+C:\Users\s7132\Desktop\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.Form2.resources
+C:\Users\s7132\Desktop\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.確認表.resources
+C:\Users\s7132\Desktop\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.Form6.resources
+C:\Users\s7132\Desktop\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.Properties.Resources.resources
+C:\Users\s7132\Desktop\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.商品詳細資料.resources
+C:\Users\s7132\Desktop\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.學生增刪改.resources
+C:\Users\s7132\Desktop\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.學生資料.resources
+C:\Users\s7132\Desktop\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.店家商品新增.resources
+C:\Users\s7132\Desktop\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.店家基本資料.resources
+C:\Users\s7132\Desktop\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.店家選擇.resources
+C:\Users\s7132\Desktop\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.第一頁.resources
+C:\Users\s7132\Desktop\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.維護選項.resources
+C:\Users\s7132\Desktop\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.csproj.GenerateResource.Cache
+C:\Users\s7132\Desktop\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.exe
+C:\Users\s7132\Desktop\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.pdb
+E:\期中\MID1\MIDterm\MIDterm\bin\Debug\MIDterm.exe.config
+E:\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.exe
+E:\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.pdb
+E:\期中\MID1\MIDterm\MIDterm\bin\Debug\MIDterm.exe
+E:\期中\MID1\MIDterm\MIDterm\bin\Debug\MIDterm.pdb
+E:\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.csprojResolveAssemblyReference.cache
+E:\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.訂購單.resources
+E:\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.Form2.resources
+E:\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.確認表.resources
+E:\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.Form6.resources
+E:\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.Properties.Resources.resources
+E:\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.商品詳細資料.resources
+E:\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.學生增刪改.resources
+E:\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.學生資料.resources
+E:\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.店家商品新增.resources
+E:\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.店家基本資料.resources
+E:\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.店家選擇.resources
+E:\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.第一頁.resources
+E:\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.維護選項.resources
+E:\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.訂購明細表.resources
+E:\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.csproj.GenerateResource.Cache
+C:\Users\iii\Desktop\MID1\MIDterm\MIDterm\bin\Debug\MIDterm.exe.config
+C:\Users\iii\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.exe
+C:\Users\iii\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.pdb
+C:\Users\iii\Desktop\MID1\MIDterm\MIDterm\bin\Debug\MIDterm.exe
+C:\Users\iii\Desktop\MID1\MIDterm\MIDterm\bin\Debug\MIDterm.pdb
+C:\Users\iii\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.csprojResolveAssemblyReference.cache
+C:\Users\iii\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.訂購單.resources
+C:\Users\iii\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.Form2.resources
+C:\Users\iii\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.確認表.resources
+C:\Users\iii\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.Form6.resources
+C:\Users\iii\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.Properties.Resources.resources
+C:\Users\iii\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.商品詳細資料.resources
+C:\Users\iii\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.學生增刪改.resources
+C:\Users\iii\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.學生資料.resources
+C:\Users\iii\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.店家商品新增.resources
+C:\Users\iii\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.店家基本資料.resources
+C:\Users\iii\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.店家選擇.resources
+C:\Users\iii\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.第一頁.resources
+C:\Users\iii\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.維護選項.resources
+C:\Users\iii\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.csproj.GenerateResource.Cache
+C:\Users\s7132\Desktop\期中\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.值日生.resources
+C:\Users\iii\Desktop\MID1\MIDterm\MIDterm\obj\Debug\MIDterm.值日生.resources
+E:\MID2\MIDterm\MIDterm\bin\Debug\MIDterm.exe.config
+E:\MID2\MIDterm\MIDterm\bin\Debug\MIDterm.exe
+E:\MID2\MIDterm\MIDterm\bin\Debug\MIDterm.pdb
+E:\MID2\MIDterm\MIDterm\obj\Debug\MIDterm.csprojResolveAssemblyReference.cache
+E:\MID2\MIDterm\MIDterm\obj\Debug\MIDterm.訂購單.resources
+E:\MID2\MIDterm\MIDterm\obj\Debug\MIDterm.Form2.resources
+E:\MID2\MIDterm\MIDterm\obj\Debug\MIDterm.確認表.resources
+E:\MID2\MIDterm\MIDterm\obj\Debug\MIDterm.Form6.resources
+E:\MID2\MIDterm\MIDterm\obj\Debug\MIDterm.Properties.Resources.resources
+E:\MID2\MIDterm\MIDterm\obj\Debug\MIDterm.值日生.resources
+E:\MID2\MIDterm\MIDterm\obj\Debug\MIDterm.商品詳細資料.resources
+E:\MID2\MIDterm\MIDterm\obj\Debug\MIDterm.學生增刪改.resources
+E:\MID2\MIDterm\MIDterm\obj\Debug\MIDterm.學生資料.resources
+E:\MID2\MIDterm\MIDterm\obj\Debug\MIDterm.店家商品新增.resources
+E:\MID2\MIDterm\MIDterm\obj\Debug\MIDterm.店家基本資料.resources
+E:\MID2\MIDterm\MIDterm\obj\Debug\MIDterm.店家選擇.resources
+E:\MID2\MIDterm\MIDterm\obj\Debug\MIDterm.第一頁.resources
+E:\MID2\MIDterm\MIDterm\obj\Debug\MIDterm.維護選項.resources
+E:\MID2\MIDterm\MIDterm\obj\Debug\MIDterm.csproj.GenerateResource.Cache
+E:\MID2\MIDterm\MIDterm\obj\Debug\MIDterm.exe
+E:\MID2\MIDterm\MIDterm\obj\Debug\MIDterm.pdb
