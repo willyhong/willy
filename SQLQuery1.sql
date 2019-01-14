@@ -33,3 +33,5 @@ from personal_sport_menu
  select distinct user_id,distance
  from personal_sport_menu 
  
+ select distinct user_id,distance
+ from personal
